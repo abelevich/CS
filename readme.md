@@ -1,4 +1,4 @@
-## Machine Learning
+## CS links
 
 ### Machine Learning Crash Course
 
