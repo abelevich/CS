@@ -17,28 +17,32 @@
 - http://www.deeplearningbook.org
 
 ### Fundamentals of Deep Learning
-http://shop.oreilly.com/product/0636920039709.doß
+- http://shop.oreilly.com/product/0636920039709.doß
 
 ### Neural Networks: A Comprehensive Foundation (2nd Edition) 
-https://www.amazon.com/Neural-Networks-Comprehensive-Foundation-2nd/dp/0132733501
+- https://www.amazon.com/Neural-Networks-Comprehensive-Foundation-2nd/dp/0132733501
 
 ### habr
-https://habrahabr.ru/company/mailru/blog/333862/
+- https://habrahabr.ru/company/mailru/blog/333862/
 
 ### articles
-https://blog.keras.io/the-future-of-deep-learning.html
+- https://blog.keras.io/the-future-of-deep-learning.html
+
+### Convolutional Neural Networks for Visual Recognition.
+
+- https://cs231n.github.io
 
 
 ## Blockchain
-https://crypto.stanford.edu/cs251/syllabus.html
+- https://crypto.stanford.edu/cs251/syllabus.html
 
 
 ## React
 
 ### Under the hood: ReactJS
-https://bogdan-lyashenko.github.io/Under-the-hood-ReactJS/
+- https://bogdan-lyashenko.github.io/Under-the-hood-ReactJS/
 
 ## Algorithms
 
 ### Rb trees
-https://habrahabr.ru/post/330644/
+- https://habrahabr.ru/post/330644/
